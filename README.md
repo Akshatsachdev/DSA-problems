@@ -1,17 +1,65 @@
-DSA-Problems is a structured repository focused on building strong problem-solving fundamentals using core Data Structures and Algorithms. This repository contains carefully selected LeetCode problems with clean, optimized solutions and clear explanations, aimed at strengthening interview-level DSA concepts.
+# 🚀 DSA-problems
 
-The project covers essential topics such as Arrays, Strings, Linked Lists, Stacks, Queues, and HashMaps, with solutions organized topic-wise for easy navigation and revision. Each problem includes a well-defined approach, time and space complexity analysis, and readable code following best practices.
+**DSA-problems** is a structured and continuously evolving repository focused on building **strong problem-solving fundamentals** using core **Data Structures and Algorithms**. The repository contains **carefully curated LeetCode problems** with **clean, optimized, and well-documented solutions**, aimed at mastering **interview-level DSA concepts**.
+
+This project emphasizes **clarity, consistency, and correctness**, making it suitable for both **learning and quick revision** before technical interviews.
+
+---
+
+## 📚 Topics Covered
+
+* Arrays
+* Strings
+* Linked Lists
+* Stacks
+* Queues
+* HashMaps
+
+Each topic is organized into separate folders for **easy navigation and focused practice**.
+
+---
+
+## 🧠 What Each Solution Includes
+
+* ✅ Clear problem statement
+* ✅ Step-by-step approach
+* ✅ Optimized and readable code
+* ✅ Time & Space Complexity analysis
+* ✅ Interview-oriented explanations
+
+All solutions follow **LeetCode-style formatting and best coding practices**.
+
+---
+
+## 🎯 Purpose of This Repository
 
 This repository is designed to:
 
-Build a solid DSA foundation for product-based company interviews (MAANG-oriented)
+* 💡 Build a **strong DSA foundation** for product-based company interviews (MAANG-oriented)
+* 🚀 Improve **logical thinking and optimization skills**
+* 📖 Serve as a **quick revision guide** before coding interviews
+* 🌍 Act as a **public proof of consistent DSA practice** on GitHub
+* 🧩 Strengthen confidence in solving **real interview problems**
 
-Improve logical thinking and optimization skills
+---
 
-Serve as a quick revision guide before coding interviews
+## 🛠️ Tech Stack
 
-Act as a public proof of consistent DSA practice on GitHub
+* **Language:** C++
+* **Platform:** LeetCode
 
-Tech Stack: Python (LeetCode-style solutions)
-Level: Beginner → Intermediate → Hard
-Goal: Interview readiness through consistency and clarity
+---
+
+## 📈 Difficulty Progression
+
+**Beginner → Intermediate → Hard**
+
+Problems are chosen to ensure **gradual difficulty progression**, reinforcing concepts step by step.
+
+---
+
+## 🎯 Final Goal
+
+To achieve **interview readiness** through **daily practice, clean solutions, and deep conceptual understanding**.
+
+---
