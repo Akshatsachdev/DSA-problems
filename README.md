@@ -45,7 +45,7 @@ This repository is designed to:
 
 ## 🛠️ Tech Stack
 
-* **Language:** C++
+* **Language:** python
 * **Platform:** LeetCode
 
 ---
